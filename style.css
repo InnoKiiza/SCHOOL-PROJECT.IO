@@ -1,0 +1,86 @@
+body{
+    background-color:darkkhaki;
+}
+.custom-tag{
+    text-align: center;
+    height: 40px;
+    background-color: rgb(42, 165, 42);
+}
+label{
+    justify-content: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+}
+.custom-kiiza{
+    min-height:400px;
+    background-color: azure;
+}
+.custom2{
+   background-color: brown;
+   height:max-content;
+}
+.hey{
+    color: red;
+    background-color: rgb(244, 244, 250);
+}
+#admin{
+    padding-top: 40px;
+    padding-bottom: 50px;
+    padding-left:10px;
+    padding-right: 0%;
+    height: 70%;
+    width: 50%;
+    border-radius: 50%;
+}
+
+h1{
+    color:#ffff;
+    justify-content:flex-end;
+    padding-left: 40px;
+}
+.sec{
+    height:40px;
+    background-color:rgb(0, 0, 0);
+    font-size:large;
+    font-weight: 200;
+    color: azure;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.school{
+    background-color:chocolate;
+    height:50px;
+    font-size: xx-large;
+    font-family:Arial, Helvetica, sans-serif;
+    }
+    .motto{
+        height:40px;
+        background-color:red;
+    }
+    .not{
+        height:40px;
+        background-color:rgb(0, 0, 0);
+        font-size:large;
+        font-weight: 200;
+        color: azure;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    .contact2{
+        height: 50px;
+        background-color: black;
+    }
+    .reg{
+        background-color:blue;
+        height:40px;
+        color: red;
+    }
+    .line{
+        color: red;
+        height: 30px;
+    }
+    .admin{
+        font-size: large;
+    }
+    .gallery2{
+        background-color: black;
+        height: 20px;
+    }
